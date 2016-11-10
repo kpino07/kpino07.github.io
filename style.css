@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import url('https://fonts.googleapis.com/css?family');
+
+body{
+    background-image: url(<Style type='text/css' >
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/red_rose_watermark_small.jpg);
+    background-color:rgb(0,0,0);
+    background-position:top left;
+    background-repeat:repeat;
+    background-attachment:fixed;
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Domine', serif;
+  }
+
+  #name{
+      padding-top: 20px;
+  }
+
+  #list{
+      padding-bottom: 20px;
+  }
+
+  #container{
+    max-width: 960px;
+    margin:0 auto;
+    border-style:groove;
+    background-color: white;
+  }
+
+h1,h2,h3,p{
+padding-left: 30px;
+}
+
+a{
+color:red;
+}
+
+a:visited{
+color:blue;
+}
+
+a:hover{
+  color: green;
+}
+
+a:active{
+  color:purple;
+}
+
+h1{
+  text-align: left;
+  color: rgb(208,9,17);
+  font-size: 80px;
+  text-shadow: 8px 8px 8px #aaa;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2{
+  color: rgb(208,9,17);
+  font-size: 60px;
+  font-family:'Dancing Script', cursive;
+  text-shadow: 8px 8px 8px #aaa;
+}
