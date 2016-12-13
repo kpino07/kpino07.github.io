@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
+
+body{
+    text-align: left;
+    font-size: 16px;
+    background: white;
+    font-family: 'PT Serif', serif;
+  }
+
+#homepage{
+max-width: 960px;
+background-color: rgb(245, 194, 216);
+margin: 0 auto;
+border: solid;
+text-align: center;
+padding: 20px;
+}
+
+#introessay{
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+}
+
+h1{
+  font-family:'Dancing Script', cursive;
+  text-align: center;
+  font-size: 35px;
+}
+
+h2{
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding:25px;
+    text-transform: uppercase;;
+}
+
+nav li {
+    float:left;
+}
+
+nav li a {
+    color: black;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+  color: white;
+}
+
+img{
+  border: solid;
+}
+
+#article{
+  max-width: 960px;
+  background-color: rgb(245, 194, 216);
+  margin: 0 auto;
+  border: solid;
+  padding: 20px;
+}
+
+#articlepic, #articlepic3{
+  float: left;
+  padding: 10px;
+}
+
+#articlepic2{
+  float: right;
+  padding: 10px;
+}
+
+#story{
+  max-width: 960px;
+  background-color: rgb(245, 194, 216);
+  margin: 0 auto;
+  border: solid;
+  padding: 20px;
+}
+
+#vid1, #vid2{
+text-align: center;
+}
+
+#graphs{
+  max-width: 960px;
+  background-color: rgb(245, 194, 216);
+  margin: 0 auto;
+  border: solid;
+  padding: 20px;
+}
+
+#infopic, #infopic2{
+  text-align: center;
+}
+
+#resume{
+  max-width: 960px;
+  background-color: rgb(245, 194, 216);
+  margin: 0 auto;
+  border: solid;
+  padding: 20px;
+}
+
+#add{
+  text-align: center;
+}
+
+#contact{
+  max-width: 960px;
+  background-color: rgb(245, 194, 216);
+  margin: 0 auto;
+  border: solid;
+  padding: 20px;
+}
+#contactinfo{
+  text-align: center;
+}
+
+#imgcontact {
+  margin-left: 32%;
+}
+
+
+#contactinfo a {
+color: white;
+}
+
+#contactinfo a:visited {
+color:blue;
+}
+
+#contactinfo a:hover {
+color: purple;
+}
+
+#contactinfo a:active {
+color: green;
+}
+
+#linkedin {
+  width: 5%;
+  border:none;
+}
+
+#twitter {
+  width: 5%;
+  border:none;
+}

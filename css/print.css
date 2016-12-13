@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
+body{
+    font-size: 12pt;
+    font-family:serif;
+    font-weight: normal;
+    background: transparent;
+}
+
+@print { margin: 0.5in;
+}
+
+nav {
+  display: none;
+}
+
+
+h1{
+  font-size: 16pt;
+  font-weight: bold;
+  text-align: center
+}
+
+h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin-left: 0.5in;
+  margin-bottom: 0.16in;
+}
+
+h3 {
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-weight: bold;
+  font-style: italic;
